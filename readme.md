@@ -1,6 +1,6 @@
 Oggi pomeriggio ripassate i primi concetti di classe, variabili e metodi d'istanza che abbiamo visto stamattina e create un file index.php in cui:
 è definita una classe ‘Movie’ OK
-=> all'interno della classe sono dichiarate delle variabili d'istanza OK
+=> all'interno della classe sono dichiarate delle variabili d'istanza
 
 => all'interno della classe è definito un costruttore
 
