@@ -5,4 +5,5 @@ Oggi pomeriggio ripassate i primi concetti di classe, variabili e metodi d'istan
 => all'interno della classe è definito un costruttore
 
 => all'interno della classe è definito almeno un metodo
-vengono istanziati almeno due oggetti ‘Movie’ e stampati a schermo i valori delle relative proprietà
+
+Vengono istanziati almeno due oggetti ‘Movie’ e stampati a schermo i valori delle relative proprietà
