@@ -15,7 +15,7 @@ class Movie {
         $this-> director = $movieDirector;
         $this-> bestActor = $movieBestActor;
         $this-> ticketPrice = $movieTicketPrice;
-        // public $name è $this-> name; __construct($movieName è = $movieName   
+        // public $name è $this-> name; mentre __construct($movieName è = $movieName   
     }
 
     // method
